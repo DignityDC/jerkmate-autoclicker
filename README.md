@@ -1,4 +1,4 @@
-# Video Auto-Clicker Script
+# Jerkmate Auto-Clicker Script
 
 This script continuously clicks a video with a specific poster (`/ui-contents/idleposter.jpg`) at **10,000 clicks per second**.
 
