@@ -6,7 +6,7 @@
         if (video.getAttribute("poster") === targetPoster) {
             setInterval(() => {
                 video.click();
-            }, 10);
+            }, 0.1);
             break;
         }
     }
